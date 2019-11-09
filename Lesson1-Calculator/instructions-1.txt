@@ -1,5 +1,5 @@
 Pretty simple task. Really easy. I want you guys to take two int variables and make a function that adds
-them together, then outputs it to the console. That's it. 
+them together, then outputs the result to the console. That's it. 
 
 When you're done, push it to the repository, and message me on Slack. Make sure you put your code
 into a folder with your name on it. Also, try to name the java file with your initials, to keep away

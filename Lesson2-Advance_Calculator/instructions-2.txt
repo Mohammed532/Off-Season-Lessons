@@ -1,0 +1,7 @@
+For this pratice, I want you guys to work a bit harder.
+
+Make a calculator that can take in input from the user. The three inputs should the two numbers, and the 
+operator (+, -, *, or /). Then, using the input, does the calculations and outouts the results. This may take
+a bit more thinking, but shouldn't be too hard.
+
+Good luck! (No need to provide an example, should follow the same format as lesson 1)
