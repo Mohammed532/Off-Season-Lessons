@@ -24,7 +24,7 @@ If you watched the videos, you would know how to do this.
 
 ### **4. Add your name and account to Contributers List**
 
-Click on the `README.md` file and add your name and account link to the contributers list (I'll go first as an example. Make sure you try to follow the format). You can also add a little note if you'd like.
+Go into the `README.md` file and add your name and account link to the contributers list (I'll go first as an example. Make sure you try to follow the format). You can also add a little note if you'd like.
 
 
 ### **5. Follow the instructions in the lesson folder**
