@@ -4,7 +4,6 @@ Welcome 6213 Coders! We'll be using this repository to learn how to code in Java
 
 ## Instructions
 
-***
 
 ### **1. Make sure you have everything downloaded**
 
@@ -37,6 +36,5 @@ For each lesson I tell you to do, there will be a folder, and inside, a txt file
 
 ## Contributers
 
----
 
 - [Mohammed Akinbayo](https://github.com/Mohammed532) Head Honcho
